@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Tables>
+    <Table value="1">
+        <CargoType id="Granel Sólido" value="1">
+            <Displacement value="1">
+                <AxisNumber value="2">1.9622</AxisNumber>
+                <AxisNumber value="3">2.4469</AxisNumber>
+                <AxisNumber value="4">2.8850</AxisNumber>
+                <AxisNumber value="5">3.2041</AxisNumber>
+                <AxisNumber value="6">3.6633</AxisNumber>
+                <AxisNumber value="7">3.9512</AxisNumber>
+                <AxisNumber value="9">4.5134</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">220.10</AxisNumber>
+                <AxisNumber value="3">250.34</AxisNumber>
+                <AxisNumber value="4">285.45</AxisNumber>
+                <AxisNumber value="5">293.35</AxisNumber>
+                <AxisNumber value="6">333.21</AxisNumber>
+                <AxisNumber value="7">356.74</AxisNumber>
+                <AxisNumber value="9">391.57</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Granel Líquido" value="2">
+            <Displacement value="1">
+                <AxisNumber value="2">1.9983</AxisNumber>
+                <AxisNumber value="3">2.4932</AxisNumber>
+                <AxisNumber value="4">2.9086</AxisNumber>
+                <AxisNumber value="5">3.2813</AxisNumber>
+                <AxisNumber value="6">3.7405</AxisNumber>
+                <AxisNumber value="7">4.0679</AxisNumber>
+                <AxisNumber value="9">4.6294</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">225.94</AxisNumber>
+                <AxisNumber value="3">258.97</AxisNumber>
+                <AxisNumber value="4">283.75</AxisNumber>
+                <AxisNumber value="5">306.39</AxisNumber>
+                <AxisNumber value="6">346.25</AxisNumber>
+                <AxisNumber value="7">380.62</AxisNumber>
+                <AxisNumber value="9">415.28</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Frigorificada" value="3">
+            <Displacement value="1">
+                <AxisNumber value="2">2.3360</AxisNumber>
+                <AxisNumber value="3">2.8948</AxisNumber>
+                <AxisNumber value="4">3.4300</AxisNumber>
+                <AxisNumber value="5">3.9058</AxisNumber>
+                <AxisNumber value="6">4.4227</AxisNumber>
+                <AxisNumber value="7">4.6955</AxisNumber>
+                <AxisNumber value="9">5.3461</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">257.99</AxisNumber>
+                <AxisNumber value="3">289.07</AxisNumber>
+                <AxisNumber value="4">336.91</AxisNumber>
+                <AxisNumber value="5">373.94</AxisNumber>
+                <AxisNumber value="6">413.79</AxisNumber>
+                <AxisNumber value="7">433.15</AxisNumber>
+                <AxisNumber value="9">472.89</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Conteinerizada" value="4">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.4345</AxisNumber>
+                <AxisNumber value="4">2.8788</AxisNumber>
+                <AxisNumber value="5">3.2022</AxisNumber>
+                <AxisNumber value="6">3.6614</AxisNumber>
+                <AxisNumber value="7">3.9519</AxisNumber>
+                <AxisNumber value="9">4.5072</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">246.93</AxisNumber>
+                <AxisNumber value="4">283.75</AxisNumber>
+                <AxisNumber value="5">292.84</AxisNumber>
+                <AxisNumber value="6">332.70</AxisNumber>
+                <AxisNumber value="7">356.91</AxisNumber>
+                <AxisNumber value="9">389.88</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Geral" value="5">
+            <Displacement value="1">
+                <AxisNumber value="2">1.9554</AxisNumber>
+                <AxisNumber value="3">2.4345</AxisNumber>
+                <AxisNumber value="4">2.8788</AxisNumber>
+                <AxisNumber value="5">3.2022</AxisNumber>
+                <AxisNumber value="6">3.6614</AxisNumber>
+                <AxisNumber value="7">3.9519</AxisNumber>
+                <AxisNumber value="9">4.5072</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">218.24</AxisNumber>
+                <AxisNumber value="3">246.93</AxisNumber>
+                <AxisNumber value="4">283.75</AxisNumber>
+                <AxisNumber value="5">292.84</AxisNumber>
+                <AxisNumber value="6">332.70</AxisNumber>
+                <AxisNumber value="7">356.91</AxisNumber>
+                <AxisNumber value="9">389.88</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Neogranel" value="6">
+            <Displacement value="1">
+                <AxisNumber value="2">1.7892</AxisNumber>
+                <AxisNumber value="3">2.4345</AxisNumber>
+                <AxisNumber value="4">2.8960</AxisNumber>
+                <AxisNumber value="5">3.2022</AxisNumber>
+                <AxisNumber value="6">3.6614</AxisNumber>
+                <AxisNumber value="7">3.9519</AxisNumber>
+                <AxisNumber value="9">4.5072</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">224.32</AxisNumber>
+                <AxisNumber value="3">246.93</AxisNumber>
+                <AxisNumber value="4">288.49</AxisNumber>
+                <AxisNumber value="5">292.84</AxisNumber>
+                <AxisNumber value="6">332.70</AxisNumber>
+                <AxisNumber value="7">356.91</AxisNumber>
+                <AxisNumber value="9">389.88</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel sólido)" value="7">
+            <Displacement value="1">
+                <AxisNumber value="2">2.5104</AxisNumber>
+                <AxisNumber value="3">2.9951</AxisNumber>
+                <AxisNumber value="4">3.4650</AxisNumber>
+                <AxisNumber value="5">3.7841</AxisNumber>
+                <AxisNumber value="6">4.2433</AxisNumber>
+                <AxisNumber value="7">4.5401</AxisNumber>
+                <AxisNumber value="9">5.1022</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">327.32</AxisNumber>
+                <AxisNumber value="3">357.55</AxisNumber>
+                <AxisNumber value="4">399.12</AxisNumber>
+                <AxisNumber value="5">407.03</AxisNumber>
+                <AxisNumber value="6">446.89</AxisNumber>
+                <AxisNumber value="7">472.85</AxisNumber>
+                <AxisNumber value="9">507.68</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel líquido)" value="8">
+            <Displacement value="1">
+                <AxisNumber value="2">2.5659</AxisNumber>
+                <AxisNumber value="3">3.0608</AxisNumber>
+                <AxisNumber value="4">3.4931</AxisNumber>
+                <AxisNumber value="5">3.8658</AxisNumber>
+                <AxisNumber value="6">4.3249</AxisNumber>
+                <AxisNumber value="7">4.6611</AxisNumber>
+                <AxisNumber value="9">5.2227</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">342.57</AxisNumber>
+                <AxisNumber value="3">375.60</AxisNumber>
+                <AxisNumber value="4">406.84</AxisNumber>
+                <AxisNumber value="5">429.48</AxisNumber>
+                <AxisNumber value="6">469.34</AxisNumber>
+                <AxisNumber value="7">506.14</AxisNumber>
+                <AxisNumber value="9">540.80</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (frigorificada)" value="9">
+            <Displacement value="1">
+                <AxisNumber value="2">2.7634</AxisNumber>
+                <AxisNumber value="3">3.3221</AxisNumber>
+                <AxisNumber value="4">3.8843</AxisNumber>
+                <AxisNumber value="5">4.3602</AxisNumber>
+                <AxisNumber value="6">4.8771</AxisNumber>
+                <AxisNumber value="7">5.1613</AxisNumber>
+                <AxisNumber value="9">5.8119</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">335.25</AxisNumber>
+                <AxisNumber value="3">366.34</AxisNumber>
+                <AxisNumber value="4">422.57</AxisNumber>
+                <AxisNumber value="5">459.59</AxisNumber>
+                <AxisNumber value="6">499.45</AxisNumber>
+                <AxisNumber value="7">521.97</AxisNumber>
+                <AxisNumber value="9">561.70</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (conteinerizada)" value="10">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.6941</AxisNumber>
+                <AxisNumber value="4">3.1702</AxisNumber>
+                <AxisNumber value="5">3.4937</AxisNumber>
+                <AxisNumber value="6">3.9528</AxisNumber>
+                <AxisNumber value="7">4.2521</AxisNumber>
+                <AxisNumber value="9">4.8075</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">316.03</AxisNumber>
+                <AxisNumber value="4">359.31</AxisNumber>
+                <AxisNumber value="5">368.40</AxisNumber>
+                <AxisNumber value="6">408.26</AxisNumber>
+                <AxisNumber value="7">434.89</AxisNumber>
+                <AxisNumber value="9">467.86</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (carga geral)" value="11">
+            <Displacement value="1">
+                <AxisNumber value="2">2.2150</AxisNumber>
+                <AxisNumber value="3">2.6941</AxisNumber>
+                <AxisNumber value="4">3.1702</AxisNumber>
+                <AxisNumber value="5">3.4937</AxisNumber>
+                <AxisNumber value="6">3.9528</AxisNumber>
+                <AxisNumber value="7">4.2521</AxisNumber>
+                <AxisNumber value="9">4.8075</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">287.33</AxisNumber>
+                <AxisNumber value="3">316.03</AxisNumber>
+                <AxisNumber value="4">359.31</AxisNumber>
+                <AxisNumber value="5">368.40</AxisNumber>
+                <AxisNumber value="6">408.26</AxisNumber>
+                <AxisNumber value="7">434.89</AxisNumber>
+                <AxisNumber value="9">467.86</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Granel Pressurizada" value="12">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">3.3669</AxisNumber>
+                <AxisNumber value="6">3.8260</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">4.7509</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">338.12</AxisNumber>
+                <AxisNumber value="6">377.98</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">456.90</AxisNumber>
+            </Cargo>
+        </CargoType>
+    </Table>
+
+    <Table value="2">
+        <CargoType id="Granel Sólido" value="1">
+            <Displacement value="1">
+                <AxisNumber value="2">1.9295</AxisNumber>
+                <AxisNumber value="3">2.4050</AxisNumber>
+                <AxisNumber value="4">2.6323</AxisNumber>
+                <AxisNumber value="5">2.8545</AxisNumber>
+                <AxisNumber value="6">3.3136</AxisNumber>
+                <AxisNumber value="7">3.4711</AxisNumber>
+                <AxisNumber value="9">3.8117</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">211.13</AxisNumber>
+                <AxisNumber value="3">238.82</AxisNumber>
+                <AxisNumber value="4">258.09</AxisNumber>
+                <AxisNumber value="5">260.41</AxisNumber>
+                <AxisNumber value="6">300.27</AxisNumber>
+                <AxisNumber value="7">308.98</AxisNumber>
+                <AxisNumber value="9">325.02</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Granel Líquido" value="2">
+            <Displacement value="1">
+                <AxisNumber value="2">1.9444</AxisNumber>
+                <AxisNumber value="3">2.4199</AxisNumber>
+                <AxisNumber value="4">2.6621</AxisNumber>
+                <AxisNumber value="5">2.8843</AxisNumber>
+                <AxisNumber value="6">3.3435</AxisNumber>
+                <AxisNumber value="7">3.5009</AxisNumber>
+                <AxisNumber value="9">3.8415</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">211.13</AxisNumber>
+                <AxisNumber value="3">238.82</AxisNumber>
+                <AxisNumber value="4">258.09</AxisNumber>
+                <AxisNumber value="5">260.41</AxisNumber>
+                <AxisNumber value="6">300.27</AxisNumber>
+                <AxisNumber value="7">308.98</AxisNumber>
+                <AxisNumber value="9">325.02</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Frigorificada" value="3">
+            <Displacement value="1">
+                <AxisNumber value="2">2.2646</AxisNumber>
+                <AxisNumber value="3">2.8110</AxisNumber>
+                <AxisNumber value="4">3.1126</AxisNumber>
+                <AxisNumber value="5">3.3857</AxisNumber>
+                <AxisNumber value="6">3.9026</AxisNumber>
+                <AxisNumber value="7">4.0688</AxisNumber>
+                <AxisNumber value="9">4.4800</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">238.35</AxisNumber>
+                <AxisNumber value="3">266.05</AxisNumber>
+                <AxisNumber value="4">291.78</AxisNumber>
+                <AxisNumber value="5">294.10</AxisNumber>
+                <AxisNumber value="6">333.95</AxisNumber>
+                <AxisNumber value="7">345.09</AxisNumber>
+                <AxisNumber value="9">361.13</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Conteinerizada" value="4">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.4050</AxisNumber>
+                <AxisNumber value="4">2.6323</AxisNumber>
+                <AxisNumber value="5">2.8545</AxisNumber>
+                <AxisNumber value="6">3.3136</AxisNumber>
+                <AxisNumber value="7">3.4711</AxisNumber>
+                <AxisNumber value="9">3.8117</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">238.82</AxisNumber>
+                <AxisNumber value="4">258.09</AxisNumber>
+                <AxisNumber value="5">260.41</AxisNumber>
+                <AxisNumber value="6">300.27</AxisNumber>
+                <AxisNumber value="7">308.98</AxisNumber>
+                <AxisNumber value="9">325.02</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Geral" value="5">
+            <Displacement value="1">
+                <AxisNumber value="2">1.9295</AxisNumber>
+                <AxisNumber value="3">2.4050</AxisNumber>
+                <AxisNumber value="4">2.6323</AxisNumber>
+                <AxisNumber value="5">2.8545</AxisNumber>
+                <AxisNumber value="6">3.3136</AxisNumber>
+                <AxisNumber value="7">3.4711</AxisNumber>
+                <AxisNumber value="9">3.8117</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">211.13</AxisNumber>
+                <AxisNumber value="3">238.82</AxisNumber>
+                <AxisNumber value="4">258.09</AxisNumber>
+                <AxisNumber value="5">260.41</AxisNumber>
+                <AxisNumber value="6">300.27</AxisNumber>
+                <AxisNumber value="7">308.98</AxisNumber>
+                <AxisNumber value="9">325.02</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Neogranel" value="6">
+            <Displacement value="1">
+                <AxisNumber value="2">1.7413</AxisNumber>
+                <AxisNumber value="3">2.4050</AxisNumber>
+                <AxisNumber value="4">2.6323</AxisNumber>
+                <AxisNumber value="5">2.8545</AxisNumber>
+                <AxisNumber value="6">3.3136</AxisNumber>
+                <AxisNumber value="7">3.4711</AxisNumber>
+                <AxisNumber value="9">3.8117</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">211.13</AxisNumber>
+                <AxisNumber value="3">238.82</AxisNumber>
+                <AxisNumber value="4">258.09</AxisNumber>
+                <AxisNumber value="5">260.41</AxisNumber>
+                <AxisNumber value="6">300.27</AxisNumber>
+                <AxisNumber value="7">308.98</AxisNumber>
+                <AxisNumber value="9">325.02</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel sólido)" value="7">
+            <Displacement value="1">
+                <AxisNumber value="2">2.4777</AxisNumber>
+                <AxisNumber value="3">2.9533</AxisNumber>
+                <AxisNumber value="4">3.2123</AxisNumber>
+                <AxisNumber value="5">3.4345</AxisNumber>
+                <AxisNumber value="6">3.8937</AxisNumber>
+                <AxisNumber value="7">4.0600</AxisNumber>
+                <AxisNumber value="9">4.4005</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">318.34</AxisNumber>
+                <AxisNumber value="3">346.04</AxisNumber>
+                <AxisNumber value="4">371.77</AxisNumber>
+                <AxisNumber value="5">374.09</AxisNumber>
+                <AxisNumber value="6">413.95</AxisNumber>
+                <AxisNumber value="7">425.08</AxisNumber>
+                <AxisNumber value="9">441.12</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel líquido)" value="8">
+            <Displacement value="1">
+                <AxisNumber value="2">2.5120</AxisNumber>
+                <AxisNumber value="3">2.9875</AxisNumber>
+                <AxisNumber value="4">3.2465</AxisNumber>
+                <AxisNumber value="5">3.4687</AxisNumber>
+                <AxisNumber value="6">3.9279</AxisNumber>
+                <AxisNumber value="7">4.0942</AxisNumber>
+                <AxisNumber value="9">4.4348</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">327.76</AxisNumber>
+                <AxisNumber value="3">355.46</AxisNumber>
+                <AxisNumber value="4">381.19</AxisNumber>
+                <AxisNumber value="5">383.50</AxisNumber>
+                <AxisNumber value="6">423.36</AxisNumber>
+                <AxisNumber value="7">434.50</AxisNumber>
+                <AxisNumber value="9">450.54</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (frigorificada)" value="9">
+            <Displacement value="1">
+                <AxisNumber value="2">2.6919</AxisNumber>
+                <AxisNumber value="3">3.2384</AxisNumber>
+                <AxisNumber value="4">3.5670</AxisNumber>
+                <AxisNumber value="5">3.8400</AxisNumber>
+                <AxisNumber value="6">4.3569</AxisNumber>
+                <AxisNumber value="7">4.5347</AxisNumber>
+                <AxisNumber value="9">4.9458</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">315.61</AxisNumber>
+                <AxisNumber value="3">343.31</AxisNumber>
+                <AxisNumber value="4">377.44</AxisNumber>
+                <AxisNumber value="5">379.75</AxisNumber>
+                <AxisNumber value="6">419.61</AxisNumber>
+                <AxisNumber value="7">433.91</AxisNumber>
+                <AxisNumber value="9">449.94</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (conteinerizada)" value="10">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.6646</AxisNumber>
+                <AxisNumber value="4">2.9237</AxisNumber>
+                <AxisNumber value="5">3.1459</AxisNumber>
+                <AxisNumber value="6">3.6050</AxisNumber>
+                <AxisNumber value="7">3.7713</AxisNumber>
+                <AxisNumber value="9">4.1119</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">307.92</AxisNumber>
+                <AxisNumber value="4">333.65</AxisNumber>
+                <AxisNumber value="5">335.97</AxisNumber>
+                <AxisNumber value="6">375.82</AxisNumber>
+                <AxisNumber value="7">386.96</AxisNumber>
+                <AxisNumber value="9">403.00</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (carga geral)" value="11">
+            <Displacement value="1">
+                <AxisNumber value="2">2.1891</AxisNumber>
+                <AxisNumber value="3">2.6646</AxisNumber>
+                <AxisNumber value="4">2.9237</AxisNumber>
+                <AxisNumber value="5">3.1459</AxisNumber>
+                <AxisNumber value="6">3.6050</AxisNumber>
+                <AxisNumber value="7">3.7713</AxisNumber>
+                <AxisNumber value="9">4.1119</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">280.22</AxisNumber>
+                <AxisNumber value="3">307.92</AxisNumber>
+                <AxisNumber value="4">333.65</AxisNumber>
+                <AxisNumber value="5">335.97</AxisNumber>
+                <AxisNumber value="6">375.82</AxisNumber>
+                <AxisNumber value="7">386.96</AxisNumber>
+                <AxisNumber value="9">403.00</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Granel Pressurizada" value="12">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">2.8545</AxisNumber>
+                <AxisNumber value="6">3.3136</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">3.8117</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">260.41</AxisNumber>
+                <AxisNumber value="6">300.27</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">325.02</AxisNumber>
+            </Cargo>
+        </CargoType>
+    </Table>
+
+    <Table value="3">
+        <CargoType id="Granel Sólido" value="1">
+            <Displacement value="1">
+                <AxisNumber value="2">1.6876</AxisNumber>
+                <AxisNumber value="3">2.0990</AxisNumber>
+                <AxisNumber value="4">2.5042</AxisNumber>
+                <AxisNumber value="5">2.8041</AxisNumber>
+                <AxisNumber value="6">3.1667</AxisNumber>
+                <AxisNumber value="7">3.4172</AxisNumber>
+                <AxisNumber value="9">3.8949</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">86.75</AxisNumber>
+                <AxisNumber value="3">92.80</AxisNumber>
+                <AxisNumber value="4">108.44</AxisNumber>
+                <AxisNumber value="5">110.02</AxisNumber>
+                <AxisNumber value="6">117.99</AxisNumber>
+                <AxisNumber value="7">125.93</AxisNumber>
+                <AxisNumber value="9">132.90</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Granel Líquido" value="2">
+            <Displacement value="1">
+                <AxisNumber value="2">1.7096</AxisNumber>
+                <AxisNumber value="3">2.1244</AxisNumber>
+                <AxisNumber value="4">2.5319</AxisNumber>
+                <AxisNumber value="5">2.8498</AxisNumber>
+                <AxisNumber value="6">3.2123</AxisNumber>
+                <AxisNumber value="7">3.4760</AxisNumber>
+                <AxisNumber value="9">3.9535</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">87.92</AxisNumber>
+                <AxisNumber value="3">94.53</AxisNumber>
+                <AxisNumber value="4">108.10</AxisNumber>
+                <AxisNumber value="5">112.62</AxisNumber>
+                <AxisNumber value="6">120.60</AxisNumber>
+                <AxisNumber value="7">130.71</AxisNumber>
+                <AxisNumber value="9">137.64</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Frigorificada" value="3">
+            <Displacement value="1">
+                <AxisNumber value="2">2.0355</AxisNumber>
+                <AxisNumber value="3">2.5190</AxisNumber>
+                <AxisNumber value="4">3.0061</AxisNumber>
+                <AxisNumber value="5">3.3922</AxisNumber>
+                <AxisNumber value="6">3.8124</AxisNumber>
+                <AxisNumber value="7">4.0638</AxisNumber>
+                <AxisNumber value="9">4.6180</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">105.22</AxisNumber>
+                <AxisNumber value="3">111.44</AxisNumber>
+                <AxisNumber value="4">132.20</AxisNumber>
+                <AxisNumber value="5">139.61</AxisNumber>
+                <AxisNumber value="6">147.58</AxisNumber>
+                <AxisNumber value="7">155.66</AxisNumber>
+                <AxisNumber value="9">163.61</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Conteinerizada" value="4">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.0949</AxisNumber>
+                <AxisNumber value="4">2.5021</AxisNumber>
+                <AxisNumber value="5">2.8035</AxisNumber>
+                <AxisNumber value="6">3.1661</AxisNumber>
+                <AxisNumber value="7">3.4174</AxisNumber>
+                <AxisNumber value="9">3.8929</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">92.12</AxisNumber>
+                <AxisNumber value="4">108.10</AxisNumber>
+                <AxisNumber value="5">109.92</AxisNumber>
+                <AxisNumber value="6">117.89</AxisNumber>
+                <AxisNumber value="7">125.97</AxisNumber>
+                <AxisNumber value="9">132.56</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Geral" value="5">
+            <Displacement value="1">
+                <AxisNumber value="2">1.6853</AxisNumber>
+                <AxisNumber value="3">2.0949</AxisNumber>
+                <AxisNumber value="4">2.5021</AxisNumber>
+                <AxisNumber value="5">2.8035</AxisNumber>
+                <AxisNumber value="6">3.1661</AxisNumber>
+                <AxisNumber value="7">3.4174</AxisNumber>
+                <AxisNumber value="9">3.8929</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">86.38</AxisNumber>
+                <AxisNumber value="3">92.12</AxisNumber>
+                <AxisNumber value="4">108.10</AxisNumber>
+                <AxisNumber value="5">109.92</AxisNumber>
+                <AxisNumber value="6">117.89</AxisNumber>
+                <AxisNumber value="7">125.97</AxisNumber>
+                <AxisNumber value="9">132.56</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Neogranel" value="6">
+            <Displacement value="1">
+                <AxisNumber value="2">1.5044</AxisNumber>
+                <AxisNumber value="3">2.0949</AxisNumber>
+                <AxisNumber value="4">2.5078</AxisNumber>
+                <AxisNumber value="5">2.8035</AxisNumber>
+                <AxisNumber value="6">3.1661</AxisNumber>
+                <AxisNumber value="7">3.4174</AxisNumber>
+                <AxisNumber value="9">3.8929</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">87.60</AxisNumber>
+                <AxisNumber value="3">92.12</AxisNumber>
+                <AxisNumber value="4">109.05</AxisNumber>
+                <AxisNumber value="5">109.92</AxisNumber>
+                <AxisNumber value="6">117.89</AxisNumber>
+                <AxisNumber value="7">125.97</AxisNumber>
+                <AxisNumber value="9">132.56</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel sólido)" value="7">
+            <Displacement value="1">
+                <AxisNumber value="2">2.0419</AxisNumber>
+                <AxisNumber value="3">2.4533</AxisNumber>
+                <AxisNumber value="4">2.8903</AxisNumber>
+                <AxisNumber value="5">3.1902</AxisNumber>
+                <AxisNumber value="6">3.5528</AxisNumber>
+                <AxisNumber value="7">3.8122</AxisNumber>
+                <AxisNumber value="9">4.2899</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">119.09</AxisNumber>
+                <AxisNumber value="3">125.13</AxisNumber>
+                <AxisNumber value="4">144.64</AxisNumber>
+                <AxisNumber value="5">146.23</AxisNumber>
+                <AxisNumber value="6">154.20</AxisNumber>
+                <AxisNumber value="7">163.60</AxisNumber>
+                <AxisNumber value="9">170.56</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel líquido)" value="8">
+            <Displacement value="1">
+                <AxisNumber value="2">2.0604</AxisNumber>
+                <AxisNumber value="3">2.4752</AxisNumber>
+                <AxisNumber value="4">2.8996</AxisNumber>
+                <AxisNumber value="5">3.2175</AxisNumber>
+                <AxisNumber value="6">3.5800</AxisNumber>
+                <AxisNumber value="7">3.8525</AxisNumber>
+                <AxisNumber value="9">4.3300</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">122.14</AxisNumber>
+                <AxisNumber value="3">128.74</AxisNumber>
+                <AxisNumber value="4">146.19</AxisNumber>
+                <AxisNumber value="5">150,72</AxisNumber>
+                <AxisNumber value="6">158.69</AxisNumber>
+                <AxisNumber value="7">170.26</AxisNumber>
+                <AxisNumber value="9">177.19</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (frigorificada)" value="9">
+            <Displacement value="1">
+                <AxisNumber value="2">2.3614</AxisNumber>
+                <AxisNumber value="3">2.8448</AxisNumber>
+                <AxisNumber value="4">3.3589</AxisNumber>
+                <AxisNumber value="5">3.7450</AxisNumber>
+                <AxisNumber value="6">4.1653</AxisNumber>
+                <AxisNumber value="7">4.4281</AxisNumber>
+                <AxisNumber value="9">4.9823</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">134.83</AxisNumber>
+                <AxisNumber value="3">141.05</AxisNumber>
+                <AxisNumber value="4">166.85</AxisNumber>
+                <AxisNumber value="5">174.25</AxisNumber>
+                <AxisNumber value="6">182.23</AxisNumber>
+                <AxisNumber value="7">192.20</AxisNumber>
+                <AxisNumber value="9">200.15</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (conteinerizada)" value="10">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.2530</AxisNumber>
+                <AxisNumber value="4">2.6920</AxisNumber>
+                <AxisNumber value="5">2.9934</AxisNumber>
+                <AxisNumber value="6">3.3560</AxisNumber>
+                <AxisNumber value="7">3.6162</AxisNumber>
+                <AxisNumber value="9">4.0916</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">116.83</AxisNumber>
+                <AxisNumber value="4">136.68</AxisNumber>
+                <AxisNumber value="5">138.50</AxisNumber>
+                <AxisNumber value="6">146.47</AxisNumber>
+                <AxisNumber value="7">156.01</AxisNumber>
+                <AxisNumber value="9">162.60</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (carga geral)" value="11">
+            <Displacement value="1">
+                <AxisNumber value="2">1.8434</AxisNumber>
+                <AxisNumber value="3">2.2530</AxisNumber>
+                <AxisNumber value="4">2.6920</AxisNumber>
+                <AxisNumber value="5">2.9934</AxisNumber>
+                <AxisNumber value="6">3.3560</AxisNumber>
+                <AxisNumber value="7">3.6162</AxisNumber>
+                <AxisNumber value="9">4.0916</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">111.09</AxisNumber>
+                <AxisNumber value="3">116.83</AxisNumber>
+                <AxisNumber value="4">136.68</AxisNumber>
+                <AxisNumber value="5">138.50</AxisNumber>
+                <AxisNumber value="6">146.47</AxisNumber>
+                <AxisNumber value="7">156.01</AxisNumber>
+                <AxisNumber value="9">162.60</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Granel Pressurizada" value="12">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">2.8584</AxisNumber>
+                <AxisNumber value="6">3.2209</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">3.9741</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">118.97</AxisNumber>
+                <AxisNumber value="6">126.94</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">145.96</AxisNumber>
+            </Cargo>
+        </CargoType>
+    </Table>
+
+    <Table value="4">
+        <CargoType id="Granel Sólido" value="1">
+            <Displacement value="1">
+                <AxisNumber value="2">1.6767</AxisNumber>
+                <AxisNumber value="3">2.0851</AxisNumber>
+                <AxisNumber value="4">2.3178</AxisNumber>
+                <AxisNumber value="5">2.5344</AxisNumber>
+                <AxisNumber value="6">2.8969</AxisNumber>
+                <AxisNumber value="7">3.0529</AxisNumber>
+                <AxisNumber value="9">3.3546</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">84.96</AxisNumber>
+                <AxisNumber value="3">90.50</AxisNumber>
+                <AxisNumber value="4">102.97</AxisNumber>
+                <AxisNumber value="5">103.43</AxisNumber>
+                <AxisNumber value="6">111.40</AxisNumber>
+                <AxisNumber value="7">116.38</AxisNumber>
+                <AxisNumber value="9">119.59</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Granel Líquido" value="2">
+            <Displacement value="1">
+                <AxisNumber value="2">1.6916</AxisNumber>
+                <AxisNumber value="3">2.1000</AxisNumber>
+                <AxisNumber value="4">2.3476</AxisNumber>
+                <AxisNumber value="5">2.5642</AxisNumber>
+                <AxisNumber value="6">2.9267</AxisNumber>
+                <AxisNumber value="7">3.0827</AxisNumber>
+                <AxisNumber value="9">3.3844</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">84.96</AxisNumber>
+                <AxisNumber value="3">90.50</AxisNumber>
+                <AxisNumber value="4">102.97</AxisNumber>
+                <AxisNumber value="5">103.43</AxisNumber>
+                <AxisNumber value="6">111.40</AxisNumber>
+                <AxisNumber value="7">116.38</AxisNumber>
+                <AxisNumber value="9">119.59</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Frigorificada" value="3">
+            <Displacement value="1">
+                <AxisNumber value="2">2.0117</AxisNumber>
+                <AxisNumber value="3">2.4911</AxisNumber>
+                <AxisNumber value="4">2.7981</AxisNumber>
+                <AxisNumber value="5">3.0655</AxisNumber>
+                <AxisNumber value="6">3.4858</AxisNumber>
+                <AxisNumber value="7">3.6506</AxisNumber>
+                <AxisNumber value="9">4.0229</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">101.29</AxisNumber>
+                <AxisNumber value="3">106.83</AxisNumber>
+                <AxisNumber value="4">123.18</AxisNumber>
+                <AxisNumber value="5">123.64</AxisNumber>
+                <AxisNumber value="6">131.61</AxisNumber>
+                <AxisNumber value="7">138.05</AxisNumber>
+                <AxisNumber value="9">141.25</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Conteinerizada" value="4">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.0851</AxisNumber>
+                <AxisNumber value="4">2.3178</AxisNumber>
+                <AxisNumber value="5">2.5344</AxisNumber>
+                <AxisNumber value="6">2.8969</AxisNumber>
+                <AxisNumber value="7">3.0529</AxisNumber>
+                <AxisNumber value="9">3.3546</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">90.50</AxisNumber>
+                <AxisNumber value="4">102.97</AxisNumber>
+                <AxisNumber value="5">103.43</AxisNumber>
+                <AxisNumber value="6">111.40</AxisNumber>
+                <AxisNumber value="7">116.38</AxisNumber>
+                <AxisNumber value="9">119.59</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Geral" value="5">
+            <Displacement value="1">
+                <AxisNumber value="2">1.6767</AxisNumber>
+                <AxisNumber value="3">2.0851</AxisNumber>
+                <AxisNumber value="4">2.3178</AxisNumber>
+                <AxisNumber value="5">2.5344</AxisNumber>
+                <AxisNumber value="6">2.8969</AxisNumber>
+                <AxisNumber value="7">3.0529</AxisNumber>
+                <AxisNumber value="9">3.3546</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">84.96</AxisNumber>
+                <AxisNumber value="3">90.50</AxisNumber>
+                <AxisNumber value="4">102.97</AxisNumber>
+                <AxisNumber value="5">103.43</AxisNumber>
+                <AxisNumber value="6">111.40</AxisNumber>
+                <AxisNumber value="7">116.38</AxisNumber>
+                <AxisNumber value="9">119.59</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Neogranel" value="6">
+            <Displacement value="1">
+                <AxisNumber value="2">1.4885</AxisNumber>
+                <AxisNumber value="3">2.0851</AxisNumber>
+                <AxisNumber value="4">2.3178</AxisNumber>
+                <AxisNumber value="5">2.5344</AxisNumber>
+                <AxisNumber value="6">2.8969</AxisNumber>
+                <AxisNumber value="7">3.0529</AxisNumber>
+                <AxisNumber value="9">3.3546</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">84.96</AxisNumber>
+                <AxisNumber value="3">90.50</AxisNumber>
+                <AxisNumber value="4">102.97</AxisNumber>
+                <AxisNumber value="5">103.43</AxisNumber>
+                <AxisNumber value="6">111.40</AxisNumber>
+                <AxisNumber value="7">116.38</AxisNumber>
+                <AxisNumber value="9">119.59</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel sólido)" value="7">
+            <Displacement value="1">
+                <AxisNumber value="2">2.0310</AxisNumber>
+                <AxisNumber value="3">2.4394</AxisNumber>
+                <AxisNumber value="4">2.7039</AxisNumber>
+                <AxisNumber value="5">2.9205</AxisNumber>
+                <AxisNumber value="6">3.2830</AxisNumber>
+                <AxisNumber value="7">3.4478</AxisNumber>
+                <AxisNumber value="9">3.7495</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">117.29</AxisNumber>
+                <AxisNumber value="3">122.83</AxisNumber>
+                <AxisNumber value="4">139.17</AxisNumber>
+                <AxisNumber value="5">139.64</AxisNumber>
+                <AxisNumber value="6">147.61</AxisNumber>
+                <AxisNumber value="7">154.04</AxisNumber>
+                <AxisNumber value="9">157.25</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (granel líquido)" value="8">
+            <Displacement value="1">
+                <AxisNumber value="2">2.0424</AxisNumber>
+                <AxisNumber value="3">2.4508</AxisNumber>
+                <AxisNumber value="4">2.7153</AxisNumber>
+                <AxisNumber value="5">2.9319</AxisNumber>
+                <AxisNumber value="6">3.2944</AxisNumber>
+                <AxisNumber value="7">3.4592</AxisNumber>
+                <AxisNumber value="9">3.7609</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">119.18</AxisNumber>
+                <AxisNumber value="3">124.72</AxisNumber>
+                <AxisNumber value="4">141.06</AxisNumber>
+                <AxisNumber value="5">141.52</AxisNumber>
+                <AxisNumber value="6">149.49</AxisNumber>
+                <AxisNumber value="7">155.93</AxisNumber>
+                <AxisNumber value="9">159.14</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (frigorificada)" value="9">
+            <Displacement value="1">
+                <AxisNumber value="2">2.3376</AxisNumber>
+                <AxisNumber value="3">2.8169</AxisNumber>
+                <AxisNumber value="4">3.1510</AxisNumber>
+                <AxisNumber value="5">3.4184</AxisNumber>
+                <AxisNumber value="6">3.8387</AxisNumber>
+                <AxisNumber value="7">4.0149</AxisNumber>
+                <AxisNumber value="9">4.3872</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">130.90</AxisNumber>
+                <AxisNumber value="3">136.44</AxisNumber>
+                <AxisNumber value="4">157.82</AxisNumber>
+                <AxisNumber value="5">158.29</AxisNumber>
+                <AxisNumber value="6">166.26</AxisNumber>
+                <AxisNumber value="7">174.59</AxisNumber>
+                <AxisNumber value="9">177.79</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (conteinerizada)" value="10">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">2.2431</AxisNumber>
+                <AxisNumber value="4">2.5077</AxisNumber>
+                <AxisNumber value="5">2.7243</AxisNumber>
+                <AxisNumber value="6">3.0868</AxisNumber>
+                <AxisNumber value="7">3.2516</AxisNumber>
+                <AxisNumber value="9">3.5533</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">115.21</AxisNumber>
+                <AxisNumber value="4">131.55</AxisNumber>
+                <AxisNumber value="5">132.01</AxisNumber>
+                <AxisNumber value="6">139.98</AxisNumber>
+                <AxisNumber value="7">146.42</AxisNumber>
+                <AxisNumber value="9">149.63</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Perigosa (carga geral)" value="11">
+            <Displacement value="1">
+                <AxisNumber value="2">1.8348</AxisNumber>
+                <AxisNumber value="3">2.2431</AxisNumber>
+                <AxisNumber value="4">2.5077</AxisNumber>
+                <AxisNumber value="5">2.7243</AxisNumber>
+                <AxisNumber value="6">3.0868</AxisNumber>
+                <AxisNumber value="7">3.2516</AxisNumber>
+                <AxisNumber value="9">3.5533</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">109.67</AxisNumber>
+                <AxisNumber value="3">115.21</AxisNumber>
+                <AxisNumber value="4">131.55</AxisNumber>
+                <AxisNumber value="5">132.01</AxisNumber>
+                <AxisNumber value="6">139.98</AxisNumber>
+                <AxisNumber value="7">146.42</AxisNumber>
+                <AxisNumber value="9">149.63</AxisNumber>
+            </Cargo>
+        </CargoType>
+
+        <CargoType id="Carga Granel Pressurizada" value="12">
+            <Displacement value="1">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">2.5344</AxisNumber>
+                <AxisNumber value="6">2.8969</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">3.3546</AxisNumber>
+            </Displacement>
+
+            <Cargo value="2">
+                <AxisNumber value="2">0</AxisNumber>
+                <AxisNumber value="3">0</AxisNumber>
+                <AxisNumber value="4">0</AxisNumber>
+                <AxisNumber value="5">103.43</AxisNumber>
+                <AxisNumber value="6">111.40</AxisNumber>
+                <AxisNumber value="7">0</AxisNumber>
+                <AxisNumber value="9">119.59</AxisNumber>
+            </Cargo>
+        </CargoType>
+    </Table>
+</Tables>

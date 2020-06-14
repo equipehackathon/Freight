@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Freight</string>
+    <string name="title_schedule">Agenda</string>
+    <string name="title_transport_category">Tipo de Transporte</string>
+    <string name="title_cargo_type">Tipo de Carga</string>
+    <string name="title_axis_number">Número de Eixos</string>
+    <string name="title_distance">Distância (km)</string>
+    <string name="freight_value">0</string>
+    <string name="btn_calculate">Calcular</string>
+
+    <string-array name="transport_category_text">
+        <item>CARGA LOTAÇÃO</item>
+        <item>OPERAÇÕES EM QUE HAJA A CONTRATAÇÃO APENAS DO VEÍCULO AUTOMOTOR DE CARGAS</item>
+        <item>TRANSPORTE RODOVIÁRIO DE CARGA LOTAÇÃO DE ALTO DESEMPENHO</item>
+        <item>OPERAÇÕES EM QUE HAJA A CONTRATAÇÃO APENAS DO VEÍCULO AUTOMOTOR DE CARGAS DE ALTO DESEMPENHO</item>
+    </string-array>
+
+    <string-array name="transport_category_code">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="cargo_type_text">
+        <item>Granel sólido</item>
+        <item>Granel líquido</item>
+        <item>Frigorificada</item>
+        <item>Conteinerizada</item>
+        <item>Carga Geral</item>
+        <item>Neogranel</item>
+        <item>Perigosa (granel sólido)</item>
+        <item>Perigosa (granel líquido)</item>
+        <item>Perigosa (carga frigorificada)</item>
+        <item>Perigosa (conteinerizada)</item>
+        <item>Perigosa (carga geral)</item>
+        <item>Carga Granel Pressurizada</item>
+    </string-array>
+
+    <string-array name="cargo_type_code">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="axis_number_text">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="axis_number_code">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+</resources>
