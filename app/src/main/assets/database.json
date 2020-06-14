@@ -1,0 +1,147 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "João da Silva",
+      "user": [
+        {
+          "id": 1,
+          "email": "joaosilva@teste.com",
+          "password": "123456"
+        }
+      ],
+      "truck": [
+        {
+          "id": 1,
+          "model": "Atego 2425",
+          "transport_type": 1,
+          "cargo_type": 5,
+          "axis_number": 4
+        }
+      ],
+      "type": 1,
+      "rg": "44.694.491-9",
+      "cnh": "88582896471",
+      "cpf": null
+    },
+    {
+      "id": 2,
+      "name": "Lucas Cardoso",
+      "user": [
+        {
+          "id": 2,
+          "email": "lucascardoso@teste.com",
+          "password": "123456"
+        }
+      ],
+      "truck": null,
+      "type": 2,
+      "rg": null,
+      "cnh": null,
+      "cpf": "254.842.060-49"
+    }
+  ],
+  "transport_type": [
+    {
+      "id": 1,
+      "name": "CARGA LOTAÇÃO"
+    },
+    {
+      "id": 2,
+      "name": "OPERAÇÕES EM QUE HAJA A CONTRATAÇÃO APENAS DO VEÍCULO AUTOMOTOR DE CARGAS"
+    },
+    {
+      "id": 3,
+      "name": "TRANSPORTE RODOVIÁRIO DE CARGA LOTAÇÃO DE ALTO DESEMPENHO"
+    }
+  ],
+  "cargo_type": [
+    {
+      "id": 1,
+      "name": "Granel sólido"
+    },
+    {
+      "id": 2,
+      "name": "Granel líquido"
+    },
+    {
+      "id": 3,
+      "name": "Frigorificada"
+    },
+    {
+      "id": 4,
+      "name": "Conteinerizada"
+    },
+    {
+      "id": 5,
+      "name": "Carga Geral"
+    },
+    {
+      "id": 6,
+      "name": "Neogranel"
+    },
+    {
+      "id": 7,
+      "name": "Perigosa (granel sólido)"
+    },
+    {
+      "id": 8,
+      "name": "Perigosa (granel líquido)"
+    },
+    {
+      "id": 9,
+      "name": "Perigosa (carga frigorificada)"
+    },
+    {
+      "id": 10,
+      "name": "Perigosa (conteinerizada)"
+    },
+    {
+      "id": 11,
+      "name": "Perigosa (carga geral)"
+    },
+    {
+      "id": 12,
+      "name": "Carga Granel Pressurizada"
+    }
+  ],
+  "axis_number": [
+    {
+      "id": 2,
+      "number": 2
+    },
+    {
+      "id": 3,
+      "number": 3
+    },
+    {
+      "id": 4,
+      "number": 4
+    },
+    {
+      "id": 5,
+      "number": 5
+    },
+    {
+      "id": 6,
+      "number": 6
+    },
+    {
+      "id": 7,
+      "number": 7
+    },
+    {
+      "id": 9,
+      "number": 9
+    }
+  ],
+  "schedule": [
+    {
+      "id": 1,
+      "driver": 1,
+      "client": 2,
+      "scheduled_date": "2020-06-14T02:30:36.504Z",
+      "value": 2725.15
+    }
+  ]
+}

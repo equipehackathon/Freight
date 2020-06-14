@@ -1,10 +1,57 @@
 package com.example.freight.Freight.Model;
 
-public class Schedule {
+import java.io.Serializable;
+
+public class Schedule implements Serializable {
+    private int id;
+    private int driverId;
+    private int clientId;
+    private String scheduledDate;
     private int transportCategory;
     private int cargoType;
     private int axisNumber;
     private float distance;
+    private double value;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getDriverId() {
+        return driverId;
+    }
+
+    public void setDriverId(int driverId) {
+        this.driverId = driverId;
+    }
+
+    public int getClientId() {
+        return clientId;
+    }
+
+    public void setClientId(int clientId) {
+        this.clientId = clientId;
+    }
+
+    public String getScheduledDate() {
+        return scheduledDate;
+    }
+
+    public double getValue() {
+        return value;
+    }
+
+    public void setValue(double value) {
+        this.value = value;
+    }
+
+    public void setScheduledDate(String scheduledDate) {
+        this.scheduledDate = scheduledDate;
+    }
 
     public int getTransportCategory() {
         return transportCategory;

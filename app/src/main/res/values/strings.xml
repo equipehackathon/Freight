@@ -7,6 +7,15 @@
     <string name="title_distance">Distância (km)</string>
     <string name="freight_value">0</string>
     <string name="btn_calculate">Calcular</string>
+    <string name="text_btn_search_drivers">Buscar Motoristas</string>
+    <string name="title_available_drivers">Motoristas Disponíveis</string>
+    <string name="title_confirmation">Confirmação</string>
+    <string name="driver_name">Nome:</string>
+    <string name="driver_cnh">CNH:</string>
+    <string name="driver_rg">RG:</string>
+    <string name="value">Valor:</string>
+    <string name="select_date">Selecionar data?</string>
+    <string name="confirm">Confirmar</string>
 
     <string-array name="transport_category_text">
         <item>CARGA LOTAÇÃO</item>
